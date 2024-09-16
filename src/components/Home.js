@@ -181,8 +181,7 @@ function Home() {
 
      {isCategoryVisible&& <button id="scrollToTopButton"
       className="fixed bottom-10  z-index-500 right-10 bg-blue-600 text-white p-3 rounded-full shadow-lg hover:bg-blue-700 focus:outline-none"
-      onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}><FaArrowUp /> </button>
-                    }
+      onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}><FaArrowUp /> </button>}
                     </div>
         <button type='button' className='bg-[#3C65F4] w-40 text-white rounded-md  px-3 py-2 text-sm font-medium'>Search</button>
                     </div>
