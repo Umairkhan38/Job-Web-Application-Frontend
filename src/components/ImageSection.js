@@ -20,7 +20,7 @@ function ImageSection() {
                <p className='text-[#4f5e64] font-extralight'>Search all the open positions on the web. Get your own personalized salary estimate. Read reviews on over 600,000 companies worldwide. The right job is out there.</p>
                <div className='flex items-center gap-x-8 mt-4'>
                <button className='bg-[#3C65F4] text-white rounded-md w-[30%] px-3 py-2 text-sm font-medium'>Search jobs</button>
-               <a className='text-[#4f5e64] cursor-pointer font-extralight underline decoration-1'>Learn more</a>
+               <a className='text-[#4f5e64] cursor-pointer font-extralight underline decoration-1' href="/">Learn more</a>
                </div>
 
            </div>
