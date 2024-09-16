@@ -3,10 +3,10 @@ import { Disclosure, DisclosureButton, DisclosurePanel } from '@headlessui/react
 import { Bars3Icon,XMarkIcon } from '@heroicons/react/24/outline'
 
 const navigation = [
-  { name: 'Home', href: '#', current: true },
-  { name: 'Find Job', href: '#', current: false },
-  { name: 'Companies', href: '#', current: false },
-  { name: 'Candidates', href: '#', current: false },
+  { name: 'Home', href: '/', current: true },
+  { name: 'Find Job', href: '/', current: false },
+  { name: 'Companies', href: '/', current: false },
+  { name: 'Candidates', href: '/', current: false },
 ]
 
 function classNames(...classes) {
