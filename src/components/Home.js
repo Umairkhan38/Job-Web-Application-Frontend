@@ -189,10 +189,10 @@ function Home() {
                 </div>
                 <div className="w-[45%] container">
                     <div className='banners relative'>
-                   <img alt="image" className="w-[360px] h-[280px] " src="https://jobbox.archielite.com/storage/pages/banner1.png" />
-                    <img alt="image" className="w-[320px] h-[180px] absolute mt-[-10%] left-[30%]" src="https://jobbox.archielite.com/storage/pages/banner2.png" />
-                    <img alt="image" className="h-20  absolute mt-[-45%] left-[45%]" src="	https://jobbox.archielite.com/storage/pages/icon-top-banner.png" />
-                    <img alt="image" className="h-30 mt-[10%]" src="https://jobbox.archielite.com/storage/pages/icon-bottom-banner.png" />
+                   <img alt="pages" className="w-[360px] h-[280px] " src="https://jobbox.archielite.com/storage/pages/banner1.png" />
+                    <img alt="banner1.png" className="w-[320px] h-[180px] absolute mt-[-10%] left-[30%]" src="https://jobbox.archielite.com/storage/pages/banner2.png" />
+                    <img alt="top-banner" className="h-20  absolute mt-[-45%] left-[45%]" src="	https://jobbox.archielite.com/storage/pages/icon-top-banner.png" />
+                    <img alt="bottom-banner" className="h-30 mt-[10%]" src="https://jobbox.archielite.com/storage/pages/icon-bottom-banner.png" />
                     </div>
                 </div>
             </div>
@@ -205,7 +205,7 @@ function Home() {
             {/* Add Section */}
             <div className='addSection  h-[45vh] relative'>
               <div className='content aboslute justify-between mt-5 flex border overflow-hidden border-slate-200 mx-[15%] p-3 rounded-lg'>
-              <img alt="image" className="h-25" src="https://jobbox.archielite.com/storage/pages/bg-left-hiring.png" />
+              <img alt="storage" className="h-25" src="https://jobbox.archielite.com/storage/pages/bg-left-hiring.png" />
               <div className='content flex items-center gap-x-6'>
                 <div className='flex flex-col ml-4'>
                   <p className='text-xl font-bold text-[#4f5e64]'>WE ARE</p>
@@ -218,7 +218,7 @@ function Home() {
 
               </div>
                 <button className="bg-[#3C65F4] w-[10%] h-10 mt-12 text-white rounded-md text-sm font-medium"><CheckCircleIcon className='w-6 inline-block mr-1'/>Apply</button>
-              <img alt="image" src="https://jobbox.archielite.com/storage/pages/bg-right-hiring.png" className='ml-10 h-22' />
+              <img alt="hiring.png" src="https://jobbox.archielite.com/storage/pages/bg-right-hiring.png" className='ml-10 h-22' />
               </div>
             </div>
 
@@ -242,16 +242,16 @@ function Home() {
             </div>
 
             <div className='conatainer mt-[30%]  relative'>
-            <img alt="image" src ="https://jobbox.archielite.com/storage/general/newsletter-background-image.png" className='my-2 mx-auto w-[88%] rounded-2xl'/>
+            <img alt="image.png" src ="https://jobbox.archielite.com/storage/general/newsletter-background-image.png" className='my-2 mx-auto w-[88%] rounded-2xl'/>
             <h2 className="text-white absolute w-15 p-2 mt-[-20%] ml-[32%] text-3xl font-bold z-index-500">New Things Will Always<br /> Update Regularly</h2>
-        <img alt="image" src="https://jobbox.archielite.com/storage/general/newsletter-image-left.png" className='absolute top-[7%] h-[45%] ml-[10%]' />
+        <img alt="left.png" src="https://jobbox.archielite.com/storage/general/newsletter-image-left.png" className='absolute top-[7%] h-[45%] ml-[10%]' />
 
-        <img alt="image" src="https://jobbox.archielite.com/storage/general/newsletter-image-right.png" className='absolute top-[7%] h-[45%] ml-[73%]' />
+        <img alt="right.png" src="https://jobbox.archielite.com/storage/general/newsletter-image-right.png" className='absolute top-[7%] h-[45%] ml-[73%]' />
 
 
 <div className='w-full max-w-[90%] md:max-w-[610px] rounded-lg p-3 absolute bottom-[20%] left-[5%] md:left-[25%] bg-white'>
   <div className='flex flex-col md:flex-row gap-3 items-center'>
-    <img alt="image" src="https://jobbox.archielite.com/themes/jobbox/imgs/template/email.svg" className='mx-2 my-1' />
+    <img alt="email.svg" src="https://jobbox.archielite.com/themes/jobbox/imgs/template/email.svg" className='mx-2 my-1' />
     <input 
       type="email" 
       className='w-full md:w-[60%] p-2 border-none focus:outline-none' 

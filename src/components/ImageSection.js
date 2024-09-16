@@ -5,9 +5,9 @@ function ImageSection() {
     <div className="mt-5 h-[90vh] container flex justify-center items-center">
     <div className='img-section w-[52%] ml-[15%] relative'>
      <img  className='rounded-3xl w-[65%]' src="https://jobbox.archielite.com/storage/pages/img1.png" alt="employees" />
-     <img  className='rounded-3xl absolute mt-[-73%] ml-[-35%] h-[90%]' src="https://jobbox.archielite.com/storage/pages/img-chart.png" alt="employees" />
+     <img  className='rounded-3xl absolute mt-[-73%] ml-[-35%] h-[90%]' src="https://jobbox.archielite.com/storage/pages/img-chart.png" alt="img-chart" />
 
-     <img  className='rounded-3xl absolute  mt-[-26%] ml-[37%] h-[100%]' src="	https://jobbox.archielite.com/storage/pages/controlcard.png" alt="employees" />
+     <img  className='rounded-3xl absolute  mt-[-26%] ml-[37%] h-[100%]' src="	https://jobbox.archielite.com/storage/pages/controlcard.png" alt="controlcard" />
 
 
      </div>  
